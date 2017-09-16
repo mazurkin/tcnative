@@ -141,17 +141,18 @@ But you can solve this problem in several ways.
 ## Apache Portable Runtime (APR)
 
 https://apr.apache.org/
+
 https://apr.apache.org/anonsvn.html
+
 https://apr.apache.org/docs/apr/1.6/index.html
 
-## Apache Tomcat Native Library (native library)
+## Apache Tomcat Native Library
+
+Native library and java part. 
 
 Repository: https://github.com/apache/tomcat-native
 
-## Apache Tomcat Native Library (java)
-
-Repository: https://svn.apache.org/repos/asf/tomcat/native/
-
+Note that Java part is automatically generated after native library is built.
 
 
 
