@@ -98,6 +98,7 @@ But you can solve this problem in several ways.
 1. make a symlink in some directory that is already known by JVM
 
 ```
+    sudo mkdir -p /usr/java/packages/lib/amd64
     sudo ln -sfT /usr/lib/x86_64-linux-gnu/libtcnative-1.so /usr/java/packages/lib/amd64/libtcnative-1.so
 ```
          
